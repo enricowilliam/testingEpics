@@ -1,3 +1,7 @@
 print("hello world")
-print("test")
-print("test pull")
+print("testing pull")
+
+a = 15
+
+for i in range(a):
+	print(i)
